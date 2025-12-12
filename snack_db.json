@@ -5,4 +5,12 @@
         "allergens": ["Shrimp", "Wheat"],
         "spicy_level": 0
     }
+	
+	"8801094983901": {
+        "name_en": "Seagram's (Sparkling Water)",
+        "taste_desc": "Plain",
+        "allergens": ["Nothing"],
+        "spicy_level": 0
+    }
+	
 }
